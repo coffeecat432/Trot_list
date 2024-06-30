@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         //1. navigation 만들기
 
         //2. Fragment만들기 & navigation과 연결하기
+            //2.1 Fragment 버튼(이미지) 누르면 이동하기
 
         //3. 리사이클러뷰 만들기
 
